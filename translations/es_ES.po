@@ -1,0 +1,62 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) YEAR ORGANIZATION
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: \n"
+"POT-Creation-Date: 2019-04-02 22:22+0200\n"
+"PO-Revision-Date: 2019-05-14 15:33+0200\n"
+"Language-Team: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Generated-By: pygettext.py 1.5\n"
+"X-Generator: Poedit 2.2\n"
+"Last-Translator: \n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"Language: es_ES\n"
+
+#: action.py:40
+msgid "Sum Column"
+msgstr "Suma de columna"
+
+#: action.py:40
+msgid "Sums up the values of a configurable column for selected books."
+msgstr "Suma los valores de una columna configurable para los libros seleccionados."
+
+#: action.py:73
+msgid "&Execute"
+msgstr "&Ejecutar"
+
+#: action.py:78
+msgid "&Configure"
+msgstr "&Configurar"
+
+#: action.py:103
+msgid "No column(s) selected. Do you want to select columns to sum up now?"
+msgstr "No hay columna(s) seleccionada(s). ¿Quieres seleccionar ahora las columnas para suma?"
+
+#: action.py:134
+msgid "The sum is for {0} book <br/><table>"
+msgstr "La suma es para {0} libro <br/><table>"
+
+#: action.py:136
+msgid "The sum is for {0} books <br/><table>"
+msgstr "La suma es para {0} libros <br/><table>"
+
+#: config.py:122
+msgid "List of available columns"
+msgstr "Lista de columnas disponibbles"
+
+#: config.py:130
+msgid "Use the column for statistic"
+msgstr "Usar la columna para estadísticas"
+
+#: config.py:135
+msgid "Don't use the column for statistics"
+msgstr "No usar la columna para estadísticas"
+
+#: config.py:143
+msgid "List of evaluated columns"
+msgstr "Lista de columnas evaluadas"
